@@ -22,8 +22,8 @@ A fast-paced, browser-based **Car Racing Game** built with vanilla HTML, CSS, an
 
 ## 🌍 Live Demo
 
-Try it in your browser – no installation needed:  
-👉 _Add your live demo link here (e.g., GitHub Pages, Vercel)_
+Try it now in your browser – no installation required:  
+👉 [https://00sdn.github.io/mini-car-racing-game](https://00sdn.github.io/mini-car-racing-game)
 
 ## 💻 Tech Stack
 
@@ -36,4 +36,4 @@ Try it in your browser – no installation needed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mini-car-racing-game.git
+   git clone https://github.com/00sdn/mini-car-racing-game.git
