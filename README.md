@@ -1,34 +1,39 @@
 # 🏎️ Mini Car Racing Game
 
-A fast-paced, browser-based **Car Racing Game** built with vanilla HTML, CSS, and JavaScript. Navigate through an endless road, avoid enemy cars, collect power-ups, and increase your score!
+A fast-paced, browser-based **Car Racing Game** built with vanilla HTML, CSS, and JavaScript. Navigate through an endless road, dodge enemy cars, collect power-ups, and boost your score!
 
-![screenshot](Preview.png) 
+![screenshot](Preview.png)
 
 ## 🎮 Features
 
-- Realistic car visuals with headlights, taillights, wheels, and more
-- Smooth left/right movement using arrow keys
-- Increasing speed over time (with speedometer)
-- Invincibility power-ups with effects and sound
-- Score tracking and Game Over screen
-- Restart option after crashing
-- Built-in sound effects (no external audio files required)
-- Fully responsive and mobile-friendly canvas
+- 🚗 Realistic car visuals (headlights, taillights, wheels)
+- 🕹️ Smooth left/right movement using arrow keys
+- 📈 Speed increases over time (with speedometer)
+- 🛡️ Invincibility power-ups with visual/sound effects
+- 🧮 Score tracking and **Game Over** screen
+- 🔁 Restart option after crash
+- 🔊 Built-in sound effects (no external audio files)
+- 📱 Fully responsive and mobile-friendly canvas
 
 ## 🕹️ Controls
 
 - **← Left Arrow** – Move Left  
 - **→ Right Arrow** – Move Right  
 
+## 🌍 Live Demo
+
+Try it in your browser – no installation needed:  
+👉 _Add your live demo link here (e.g., GitHub Pages, Vercel)_
+
 ## 💻 Tech Stack
 
-- **HTML5 Canvas** for rendering the game
-- **CSS3** for styling UI components
-- **JavaScript** for game logic, animations, sound, and interaction
-- No external libraries or frameworks
+- **HTML5 Canvas** – Game rendering  
+- **CSS3** – UI design and layout  
+- **JavaScript** – Game logic, animation, audio  
+- ❌ No external libraries or frameworks used
 
 ## 🚀 How to Run
 
-1. **Clone or Download** this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/mini-car-racing-game.git
