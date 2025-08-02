@@ -2,7 +2,7 @@
 
 A fast-paced, browser-based **Car Racing Game** built with vanilla HTML, CSS, and JavaScript. Navigate through an endless road, avoid enemy cars, collect power-ups, and increase your score!
 
-![screenshot](preview.png) 
+![screenshot](Preview.png) 
 
 ## 🎮 Features
 
