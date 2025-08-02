@@ -23,7 +23,7 @@ A fast-paced, browser-based **Car Racing Game** built with vanilla HTML, CSS, an
 ## 🌍 Live Demo
 
 Try it now in your browser – no installation required:  
-👉 [https://00sdn.github.io/mini-car-racing-game](https://00sdn.github.io/Mini-Car-Racing-Game)
+👉 [https://00sdn.github.io/Mini-Car-Racing-Game](https://00sdn.github.io/Mini-Car-Racing-Game)
 
 ## 💻 Tech Stack
 
